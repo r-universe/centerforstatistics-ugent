@@ -1,0 +1,13 @@
+[
+  {
+    "package": "pim",
+    "oncran": true
+  },
+  {
+    "package": "xnet",
+    "oncran": true
+  },
+  {
+    "package": "RCM"
+  }
+]
