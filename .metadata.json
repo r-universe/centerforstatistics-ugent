@@ -6,8 +6,5 @@
   {
     "package": "xnet",
     "oncran": true
-  },
-  {
-    "package": "RCM"
   }
 ]
