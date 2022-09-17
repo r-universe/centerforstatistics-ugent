@@ -18,18 +18,8 @@
 	url = https://github.com/centerforstatistics-ugent/combi
 	shallow = true
 	registered = true
-[submodule "RCM"]
-	path = RCM
-	url = https://github.com/centerforstatistics-ugent/rcm
-	shallow = true
-	registered = true
 [submodule "reconsi"]
 	path = reconsi
 	url = https://github.com/centerforstatistics-ugent/reconsi
-	shallow = true
-	registered = true
-[submodule "SPsimSeq"]
-	path = SPsimSeq
-	url = https://github.com/centerforstatistics-ugent/spsimseq
 	shallow = true
 	registered = true

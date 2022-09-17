@@ -11,12 +11,6 @@
     "package": "combi"
   },
   {
-    "package": "RCM"
-  },
-  {
     "package": "reconsi"
-  },
-  {
-    "package": "SPsimSeq"
   }
 ]
