@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "xnet"]
-	path = xnet
-	url = https://github.com/centerforstatistics-ugent/xnet
-	shallow = true
-	registered = true
-[submodule "SPsimSeq"]
-	path = SPsimSeq
-	url = https://github.com/centerforstatistics-ugent/spsimseq
+[submodule "combi"]
+	path = combi
+	url = https://github.com/centerforstatistics-ugent/combi
 	shallow = true
 	registered = true
 [submodule "pim"]
@@ -18,18 +13,23 @@
 	url = https://github.com/centerforstatistics-ugent/pim
 	shallow = true
 	registered = true
-[submodule "reconsi"]
-	path = reconsi
-	url = https://github.com/centerforstatistics-ugent/reconsi
-	shallow = true
-	registered = true
 [submodule "RCM"]
 	path = RCM
 	url = https://github.com/centerforstatistics-ugent/rcm
 	shallow = true
 	registered = true
-[submodule "combi"]
-	path = combi
-	url = https://github.com/centerforstatistics-ugent/combi
+[submodule "reconsi"]
+	path = reconsi
+	url = https://github.com/centerforstatistics-ugent/reconsi
+	shallow = true
+	registered = true
+[submodule "SPsimSeq"]
+	path = SPsimSeq
+	url = https://github.com/centerforstatistics-ugent/spsimseq
+	shallow = true
+	registered = true
+[submodule "xnet"]
+	path = xnet
+	url = https://github.com/centerforstatistics-ugent/xnet
 	shallow = true
 	registered = true
