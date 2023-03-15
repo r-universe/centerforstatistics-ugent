@@ -1,22 +1,22 @@
 [
   {
-    "package": "pim",
-    "oncran": true
-  },
-  {
     "package": "xnet",
     "oncran": true
   },
   {
-    "package": "combi"
+    "package": "SPsimSeq"
   },
   {
-    "package": "RCM"
+    "package": "pim",
+    "oncran": true
   },
   {
     "package": "reconsi"
   },
   {
-    "package": "SPsimSeq"
+    "package": "RCM"
+  },
+  {
+    "package": "combi"
   }
 ]
