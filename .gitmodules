@@ -2,21 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "RCM"]
-	path = RCM
-	url = https://github.com/centerforstatistics-ugent/rcm
-[submodule "SPsimSeq"]
-	path = SPsimSeq
-	url = https://github.com/centerforstatistics-ugent/spsimseq
-[submodule "combi"]
-	path = combi
-	url = https://github.com/centerforstatistics-ugent/combi
 [submodule "pim"]
 	path = pim
 	url = https://github.com/centerforstatistics-ugent/pim
-[submodule "reconsi"]
-	path = reconsi
-	url = https://github.com/centerforstatistics-ugent/reconsi
 [submodule "xnet"]
 	path = xnet
 	url = https://github.com/centerforstatistics-ugent/xnet
